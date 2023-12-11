@@ -5,7 +5,9 @@ import ReactPlayer from "react-player/youtube";
 const App = () => {
   return (
     <div>
+      <p>
       <MyVideo />
+      </p>
     </div>
   );
 };
